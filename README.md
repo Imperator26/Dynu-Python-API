@@ -12,5 +12,6 @@ A Python wrapper for Dynu ddns API.
 ### TODO
 
 - Add support for OAuth keys
+- Docs
 - Tests
 - More examples
