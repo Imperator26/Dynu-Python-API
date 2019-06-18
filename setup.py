@@ -7,7 +7,7 @@ setuptools.setup(
     name="pydynu",
     version="0.1.0",
     author="Federico A. Corazza",
-    author_email="federico.corazza@love.it",
+    author_email="federico.corazza@live.it",
     description="An API wrapper for Dynu ddns.",
     long_description=long_description,
     long_description_content_type="text/markdown",
