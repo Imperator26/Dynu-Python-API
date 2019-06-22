@@ -11,7 +11,6 @@ def load_api_key(api_key_path):
 
 def handle_response(func):
     @functools.wraps(func)
-
     def wrapper(*args, **kwargs):
         r = func(*args, **kwargs)
         return r.json()
